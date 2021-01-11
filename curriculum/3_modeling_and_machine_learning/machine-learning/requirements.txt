@@ -1,6 +1,0 @@
-pandas
-psycopg2
-numpy
-ipython
-scikit-learn
-statsmodels
